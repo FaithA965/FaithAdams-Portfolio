@@ -68,8 +68,9 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 
 ---
 
-## Mock Interview Video
- mock-interview.mp4
+##  Mock Interview Video
+
+ [View Mock Interview](mock-interview.mp4)
 
 ---
 
