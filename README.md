@@ -73,12 +73,28 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 
 ---
 
-##  Reflection
-Through this portfolio, I have developed important skills such as communication, problem-solving, and technical confidence. I have also improved my ability to use GitHub for version control and documentation.
+# Reflection
 
-This assignment helped me understand how to present my work professionally and prepare for real-world opportunities in the IT industry.
+Working on this portfolio helped me grow in practical ways. I improved my **communication**, **problem solving**, and **technical confidence**, and I became more comfortable using **GitHub** for version control and documentation.  
+This project also taught me how to present my work clearly and professionally, which feels useful for real-world IT opportunities.
 
 ---
+
+# Reflection on Markdown
+
+Using **Markdown** made my GitHub portfolio clean and easy to navigate. I learned how to format headings, add images and links, and organize content so it’s simple to read. Markdown helped the portfolio look more polished and professional.
+
+---
+
+# Reflection on Mock Interview
+
+The mock interview boosted my confidence and helped me explain my technical skills more clearly. Practicing answers and receiving feedback made me feel more prepared for real job interviews.
+
+---
+
+# Reflection on GitHub Pages Deployment
+
+Deploying the portfolio with **GitHub Pages** showed me how a repository becomes a live website. I learned that pushing updates to GitHub automatically updates the site, which gave me hands-on experience with basic web deployment and the release process.
 
 ##  Repository Contents
 - README.md  
