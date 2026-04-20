@@ -2,7 +2,7 @@
 
 
 ## Live Portfolio Website
-https://FaithA965.github.io
+https://faitha965.github.io/FaithAdams-Portfolio/
 
 ---
 
