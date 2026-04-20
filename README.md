@@ -47,7 +47,6 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 ###  Study Finder App
 - Description: Helps students locate study spaces on campus  
 - Technologies: Java, Firebase  
-- [View Project](#)
 
 ![Study Finder App](study-finder.png)
 
@@ -56,7 +55,6 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 ### Fitness App
 - Description: Tracks workouts and fitness progress  
 - Technologies: Java, Android Studio  
-- [View Project](#)
 
 ![Fitness App](fitness-app.png)
 
@@ -65,7 +63,6 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 ### Student Accommodation App
 - Description: Helps students find and manage accommodation  
 - Technologies: Java, MySQL  
-- [View Project](#)
 
 ![Accommodation App](accommodation-app.png)
 
@@ -74,7 +71,6 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 ### Library Management System
 - Description: Manages books, borrowing, and return records  
 - Technologies: Java, SQL  
-- [View Project](#)
 
 ![Library App](library-app.png)
 
