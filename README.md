@@ -60,14 +60,6 @@ I am a passionate IT student seeking a Work Integrated Learning (WIL) opportunit
 
 ---
 
-### Student Accommodation App
-- Description: Helps students find and manage accommodation  
-- Technologies: Java, MySQL  
-
-![Accommodation App](accommodation-app.png)
-
----
-
 ### Library Management System
 - Description: Manages books, borrowing, and return records  
 - Technologies: Java, SQL  
